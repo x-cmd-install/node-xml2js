@@ -7,7 +7,7 @@ about:
   head: 7173c24
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:37:42Z
+  collectedAt: 2026-09-04T20:53:16Z
 timeline:
   created: 2010-07-17
   lastCommit: 2026-04-30
@@ -80,6 +80,39 @@ total:
   openIssue: 206
   commit: 448
 ---
+path: /home/runner/.x-repo/github.com/Leonidas-from-XIV/node-xml2js
+collectedAt: 2026-09-04T20:53:17Z
+loc:
+  Json:
+    code: 2194
+    comments: 0
+    blanks: 0
+    files: 2
+  CoffeeScript:
+    code: 1262
+    comments: 114
+    blanks: 183
+    files: 10
+  JavaScript:
+    code: 618
+    comments: 6
+    blanks: 55
+    files: 6
+  Xml:
+    code: 115
+    comments: 0
+    blanks: 3
+    files: 2
+  Markdown:
+    code: 0
+    comments: 313
+    blanks: 79
+    files: 2
+total:
+  code: 4300
+  comments: 446
+  blanks: 329
+  files: 22
 ---
 date: "2026-08-24"
 repo:
