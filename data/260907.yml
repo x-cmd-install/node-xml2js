@@ -5,7 +5,7 @@ about:
   head: 7173c24
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T04:55:56Z
+  collectedAt: 2026-09-07T19:36:01Z
 timeline:
   created: 2010-07-17
   lastCommit: 2026-04-30
@@ -79,7 +79,7 @@ total:
   commit: 448
 ---
 path: /home/runner/.x-repo/github.com/Leonidas-from-XIV/node-xml2js
-collectedAt: 2026-09-07T04:55:57Z
+collectedAt: 2026-09-07T19:36:02Z
 loc:
   Json:
     code: 2194
@@ -112,23 +112,22 @@ total:
   blanks: 329
   files: 22
 ---
-date: "2026-08-24"
+date: "2026-09-07"
 repo:
   name: github.com/Leonidas-from-XIV/node-xml2js
   commit: 7173c245aab4c2b417cd4c24f0b54e697a369864
 scorecard:
-  version: v5.5.1-0.20260815060127-d1fab88f5463
-  commit: d1fab88f54636ff366076edfc5c239f97b3c8e66
+  version: v5.5.0
+  commit: c395761df6afe1a69e476bc60a013a94bcbc153f
 score: 3.3
 checks:
-  - name: Packaging
-    score: -1
-    reason: packaging workflow not detected
-    details:
-      - 'Warn: no GitHub/GitLab publishing workflow detected.'
   - name: Code-Review
     score: 2
     reason: Found 4/18 approved changesets -- score normalized to 2
+    details: null
+  - name: Maintained
+    score: 0
+    reason: 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
     details: null
   - name: Binary-Artifacts
     score: 10
@@ -138,10 +137,11 @@ checks:
     score: -1
     reason: No tokens found
     details: null
-  - name: Maintained
-    score: 0
-    reason: 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-    details: null
+  - name: Packaging
+    score: -1
+    reason: packaging workflow not detected
+    details:
+      - 'Warn: no GitHub/GitLab publishing workflow detected.'
   - name: Pinned-Dependencies
     score: -1
     reason: no dependencies found
@@ -154,6 +154,11 @@ checks:
     score: 0
     reason: no effort to earn an OpenSSF best practices badge detected
     details: null
+  - name: Fuzzing
+    score: 10
+    reason: project is fuzzed
+    details:
+      - 'Info: OSSFuzz integration found'
   - name: Security-Policy
     score: 0
     reason: security policy file not detected
@@ -162,11 +167,6 @@ checks:
       - 'Warn: no security file to analyze'
       - 'Warn: no security file to analyze'
       - 'Warn: no security file to analyze'
-  - name: Fuzzing
-    score: 10
-    reason: project is fuzzed
-    details:
-      - 'Info: OSSFuzz integration found'
   - name: License
     score: 10
     reason: license file detected
@@ -189,7 +189,7 @@ checks:
       - 'Warn: 0 commits out of 18 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:55:58+00:00
+  collectedAt: 2026-09-07T19:36:02+00:00
   platform:
     darwin/arm64:
       name:  null
