@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:00:22Z
+  collectedAt: 2026-09-10T16:42:13Z
 timeline:
   created: 2010-07-17
   lastCommit: 2026-04-30
@@ -83,7 +83,7 @@ total:
   commit: 448
 ---
 path: /home/runner/.x-repo/github.com/Leonidas-from-XIV/node-xml2js
-collectedAt: 2026-09-10T05:00:23Z
+collectedAt: 2026-09-10T16:42:14Z
 loc:
   Json:
     code: 2194
