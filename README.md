@@ -12,28 +12,7 @@ XML to JavaScript object converter.
 x install node-xml2js
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/Leonidas-from-XIV/node-xml2js>
-- **License**: MIT
-
-## Popularity
-
-- **Stars**: 4,963 · **Forks**: 602 · **Open issues**: 512 · **Contributors**: 68
-
-## Totals (cumulative)
-
-- **Releases**: 0 · **Merged PRs**: 83 · **Open PRs**: 43 · **Closed issues**: 306 · **Open issues**: 206 · **Commits**: 448
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 360d | 2025-09-15 | 0 | 1 | 1 | 1 | 3 | 2 |
-
-## Code size
+## Code insight
 
 Total: **4,189** lines of code across **22** files in the top 5 languages.
 
@@ -55,6 +34,30 @@ Lowest-scoring checks:
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Token-Permissions** (-1/10) — No tokens found
 
+## Source
+
+- **Upstream**: <https://github.com/Leonidas-from-XIV/node-xml2js>
+- **License**: MIT
+
+## Popularity
+
+- **Stars**: 4,963 · **Forks**: 602 · **Open issues**: 512 · **Contributors**: 68
+
+## Totals (cumulative)
+
+- **Releases**: 0 · **Merged PRs**: 83 · **Open PRs**: 43 · **Closed issues**: 306 · **Open issues**: 206 · **Commits**: 448
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-03-15 | 0 | 0 | 1 | 0 | 3 | 1 |
+| 360d | 2025-09-16 | 0 | 1 | 1 | 1 | 3 | 2 |
+| last720d | 2024-09-21 | 0 | 1 | 2 | 1 | 7 | 3 |
+
 ## Improve this data
 
 Install metadata for node-xml2js lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `node-xml2js` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -64,4 +67,4 @@ Install metadata for node-xml2js lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:42:18Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:08:14Z._
