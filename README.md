@@ -31,8 +31,8 @@ Overall score: **3.3 / 10**
 Lowest-scoring checks:
 
 - **Code-Review** (2/10) — Found 4/18 approved changesets -- score normalized to 2
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Token-Permissions** (-1/10) — No tokens found
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## Source
 
@@ -41,7 +41,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,962 · **Forks**: 602 · **Open issues**: 512 · **Contributors**: 68
+- **Stars**: 4,961 · **Forks**: 602 · **Open issues**: 512 · **Contributors**: 68
 
 ## Totals (cumulative)
 
@@ -51,12 +51,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-16 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-16 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-03-18 | 0 | 0 | 1 | 0 | 2 | 1 |
-| 360d | 2025-09-19 | 0 | 1 | 1 | 1 | 3 | 2 |
-| last720d | 2024-09-24 | 0 | 1 | 2 | 1 | 7 | 3 |
+| 30d | 2026-08-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-17 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-17 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-03-19 | 0 | 0 | 1 | 0 | 2 | 1 |
+| 360d | 2025-09-20 | 0 | 1 | 1 | 1 | 3 | 2 |
+| last720d | 2024-09-25 | 0 | 1 | 2 | 1 | 7 | 3 |
 
 ## Improve this data
 
@@ -67,4 +67,4 @@ Install metadata for node-xml2js lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:22:43Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:20:46Z._
