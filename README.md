@@ -41,22 +41,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,959 · **Forks**: 603 · **Open issues**: 512 · **Contributors**: 68
+- **Stars**: 4,959 · **Forks**: 604 · **Open issues**: 512 · **Contributors**: 68
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 83 · **Open PRs**: 52 · **Closed issues**: 306 · **Open issues**: 206 · **Commits**: 448
+- **Releases**: 0 · **Merged PRs**: 83 · **Open PRs**: 53 · **Closed issues**: 306 · **Open issues**: 206 · **Commits**: 448
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 0 | 9 | 0 | 0 | 0 |
-| last60d | 2026-09-11 | 0 | 0 | 9 | 0 | 0 | 0 |
-| 90d | 2026-08-12 | 0 | 0 | 9 | 0 | 0 | 0 |
-| last180d | 2026-05-14 | 0 | 0 | 10 | 0 | 2 | 0 |
-| 360d | 2025-11-15 | 0 | 1 | 10 | 1 | 3 | 2 |
-| last720d | 2024-11-20 | 0 | 1 | 10 | 1 | 5 | 3 |
+| 30d | 2026-10-12 | 0 | 0 | 10 | 0 | 0 | 0 |
+| last60d | 2026-09-12 | 0 | 0 | 10 | 0 | 0 | 0 |
+| 90d | 2026-08-13 | 0 | 0 | 10 | 0 | 0 | 0 |
+| last180d | 2026-05-15 | 0 | 0 | 11 | 0 | 2 | 0 |
+| 360d | 2025-11-16 | 0 | 1 | 11 | 1 | 3 | 2 |
+| last720d | 2024-11-21 | 0 | 1 | 11 | 1 | 5 | 3 |
 
 ## Improve this data
 
@@ -67,4 +67,4 @@ Install metadata for node-xml2js lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:39:20Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:40:39Z._
