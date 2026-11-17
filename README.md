@@ -31,7 +31,7 @@ Overall score: **3.3 / 10**
 Lowest-scoring checks:
 
 - **Code-Review** (2/10) — Found 4/18 approved changesets -- score normalized to 2
-- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Pinned-Dependencies** (-1/10) — no dependencies found
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
@@ -51,12 +51,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 9 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 0 | 0 | 10 | 0 | 0 | 0 |
-| 90d | 2026-08-18 | 0 | 0 | 10 | 0 | 0 | 0 |
-| last180d | 2026-05-20 | 0 | 0 | 11 | 0 | 2 | 0 |
-| 360d | 2025-11-21 | 0 | 1 | 11 | 1 | 3 | 2 |
-| last720d | 2024-11-26 | 0 | 1 | 11 | 1 | 5 | 3 |
+| 30d | 2026-10-18 | 0 | 0 | 9 | 0 | 0 | 0 |
+| last60d | 2026-09-18 | 0 | 0 | 10 | 0 | 0 | 0 |
+| 90d | 2026-08-19 | 0 | 0 | 10 | 0 | 0 | 0 |
+| last180d | 2026-05-21 | 0 | 0 | 11 | 0 | 2 | 0 |
+| 360d | 2025-11-22 | 0 | 1 | 11 | 1 | 3 | 2 |
+| last720d | 2024-11-27 | 0 | 1 | 11 | 1 | 5 | 3 |
 
 ## Improve this data
 
@@ -67,4 +67,4 @@ Install metadata for node-xml2js lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:05:21Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:05:49Z._
